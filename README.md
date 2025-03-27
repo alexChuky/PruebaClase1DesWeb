@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularHelloWorld
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
@@ -61,3 +62,6 @@ For more information on using the Angular CLI, including detailed command refere
 =======
 # PruebaClase1DesWeb
 >>>>>>> b69ece2 (Initial commit)
+=======
+# PruebaClase1DesWeb
+>>>>>>> b69ece211635a7847fcb90b6b43a9ff808fe37ff
